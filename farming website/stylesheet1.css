@@ -1,0 +1,43 @@
+body {
+    background:linear-gradient(lightgrey,lightpink) ;
+}
+
+li {
+    font-style:sans-serif;
+
+}
+td {
+    text-align:center;
+    border : 2px solid red;
+}
+img{
+    display: block;
+    border : 3px dashed black;
+    margin:auto;
+}
+#c1{
+    background-color: cyan;
+
+}
+#c2{
+    border: 1px dotted black;
+}
+iframe {
+    display:block;
+    margin : auto;
+}
+#table1 {
+    
+    margin-left: auto;
+    margin-right :auto;
+}
+h1 {
+    line-height : 2rem;
+    font-family :'Syne Mono',monospace;
+    text-align :center;
+}
+#b1{
+    background-color : red;
+    border-radius :1px ;
+    
+}
